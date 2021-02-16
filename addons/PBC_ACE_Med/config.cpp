@@ -20,7 +20,8 @@ class ace_medical_replacementItems {
         {"ACE_morphine", 2},
 		{"ACE_epinephrine", 1},
         {"ACE_tourniquet", 2},
-		{"ACE_splint", 1}
+		{"ACE_splint", 1},
+		{"ACE_EarPlugs", 1}
     };
     ItemType_619[] = {
         {"ACE_fieldDressing", 6},
